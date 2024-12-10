@@ -24,7 +24,7 @@ Routing: React Router
 
 ![Home](assets/home.jpg)
 ![Home](assets/home.display.jpg)
-![roadmap](assets/roadmap.interface.jpg)
+![roadmap](assets/image.png)
 ![roadmap](assets/roadmap.jpeg)
 
 ## Setup Instructions
