@@ -43,6 +43,6 @@ Open a pull request.
 
 
 💬 Suggestions?
-If you have any suggestions or need clarification, feel free to open an issue in the repository or contact me directly via www.linkedin.com/in/esther-rani-tannerub63692274
+If you have any suggestions or need clarification, feel free to open an issue in the repository or contact me directly via [LinkedIn](www.linkedin.com/in/esther-rani-tannerub63692274)
 
 
