@@ -1,0 +1,75 @@
+.roadmap {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  max-width: 1200px; 
+  margin: 10px auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.resources-section {
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 20px;
+  justify-content: space-between; 
+}
+
+.resource-box {
+  background-color: rgba(211, 211, 211, 0.349);
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+  width: 48%; 
+  box-sizing: border-box; 
+  box-shadow: 5px 5px 5px black;
+}
+
+.resource-box h3 {
+  font-size: 1.6rem;
+  color: #34495e;
+  margin-bottom: 10px;
+}
+
+.resource-box ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.resource-box ul li {
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.resource-box ul li:before {
+  content: '• ';
+  color: #2980b9;
+}
+
+.resource-box ul li a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.resource-box ul li a:hover {
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2rem;
+  color: white;
+  font-weight: bold;
+}

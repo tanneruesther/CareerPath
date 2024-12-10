@@ -1,0 +1,94 @@
+
+.Roadmaps {
+    max-width: 80%;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    height: 55vh;
+  }
+  
+  .Roadmaps h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .Roadmaps label {
+    font-size: 1rem;
+    color: #333;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+  }
+  
+  .Roadmaps select {
+    padding: 8px;
+    font-size: 1rem;
+    margin: 10px 0 20px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    background-color: #fff;
+  }
+  
+  .Roadmaps select:focus {
+    border-color: #007bff;
+  }
+  
+  .Roadmaps h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+ 
+  .Roadmaps a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-top: 20px;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .Roadmaps a:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  .Roadmaps select option {
+    font-size: 1rem;
+  }
+  
+  .Roadmaps .no-opportunity {
+    color: #888;
+    font-size: 1rem;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  @media (max-width: 768px) {
+    .Roadmaps h1 {
+      font-size: 1.5rem;
+    }
+  
+    .Roadmaps h2 {
+      font-size: 1.25rem;
+    }
+  
+    .Roadmaps select {
+      width: 100%;
+      max-width: 100%;
+    }
+  }
+  

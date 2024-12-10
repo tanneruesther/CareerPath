@@ -1,0 +1,2496 @@
+[
+    {
+        "domain_id": "1",
+        "domain_name": "Technology & IT",
+        "domain_description": "This domain focuses on software development, systems engineering, artificial intelligence, cybersecurity, and more.",
+        "opportunities": [
+            {
+                "id": 1,
+                "opportunity": "Software Developer / Engineer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udemy",
+                        "edX",
+                        "FreeCodeCamp"
+                    ],
+                    "how_to_find_resources": [
+                        "GitHub",
+                        "Stack Overflow",
+                        "Online communities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build personal projects",
+                        "Contribute to open-source",
+                        "Create a portfolio website"
+                    ],
+                    "how_to_practice": [
+                        "Solve coding problems on LeetCode",
+                        "Participate in hackathons",
+                        "Build apps"
+                    ],
+                    "track_progress": [
+                        "Use GitHub for version control",
+                        "Maintain a progress journal"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Frontend Developer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Codecademy",
+                        "FreeCodeCamp",
+                        "Scrimba"
+                    ],
+                    "how_to_find_resources": [
+                        "Stack Overflow",
+                        "Frontend Developer Blogs",
+                        "GitHub repositories"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create portfolio websites",
+                        "Contribute to open-source",
+                        "Write blogs"
+                    ],
+                    "how_to_practice": [
+                        "Build responsive websites",
+                        "Work on UI/UX projects",
+                        "Collaborate on real-world projects"
+                    ],
+                    "track_progress": [
+                        "Track improvements using version control systems like Git"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Backend Developer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Pluralsight",
+                        "Codecademy",
+                        "FreeCodeCamp"
+                    ],
+                    "how_to_find_resources": [
+                        "GitHub",
+                        "Online forums like Stack Overflow"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build backend APIs",
+                        "Create RESTful services",
+                        "Contribute to open-source projects"
+                    ],
+                    "how_to_practice": [
+                        "Develop database-driven applications",
+                        "Solve backend challenges"
+                    ],
+                    "track_progress": [
+                        "Track your progress with a personal GitHub repository"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Full Stack Developer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "FreeCodeCamp",
+                        "The Odin Project",
+                        "Pluralsight"
+                    ],
+                    "how_to_find_resources": [
+                        "GitHub repositories",
+                        "Tech blogs",
+                        "Frontend & Backend communities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create end-to-end applications",
+                        "Build full-stack web apps",
+                        "Write technical blogs"
+                    ],
+                    "how_to_practice": [
+                        "Collaborate on real-world projects",
+                        "Build scalable applications"
+                    ],
+                    "track_progress": [
+                        "Maintain a GitHub portfolio and update projects regularly"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Data Scientist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udacity",
+                        "Kaggle",
+                        "DataCamp"
+                    ],
+                    "how_to_find_resources": [
+                        "Kaggle competitions",
+                        "Research papers",
+                        "Online communities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Submit projects on GitHub",
+                        "Create data visualizations",
+                        "Write about data science problems"
+                    ],
+                    "how_to_practice": [
+                        "Participate in Kaggle competitions",
+                        "Build machine learning models",
+                        "Work with real-world datasets"
+                    ],
+                    "track_progress": [
+                        "Use a Jupyter notebook for step-by-step analysis tracking"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Machine Learning Engineer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "edX",
+                        "Udacity",
+                        "Kaggle"
+                    ],
+                    "how_to_find_resources": [
+                        "Machine learning blogs",
+                        "Research papers",
+                        "GitHub repositories"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build ML models",
+                        "Create repositories with projects",
+                        "Share results on Kaggle"
+                    ],
+                    "how_to_practice": [
+                        "Solve challenges on Kaggle",
+                        "Create end-to-end ML pipelines",
+                        "Work on deep learning projects"
+                    ],
+                    "track_progress": [
+                        "Track models' performance with tools like TensorBoard"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "Artificial Intelligence Specialist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udacity",
+                        "AI courses by Stanford",
+                        "MIT OpenCourseWare"
+                    ],
+                    "how_to_find_resources": [
+                        "AI research papers",
+                        "AI communities like Reddit, GitHub"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work on AI-driven projects",
+                        "Publish on ArXiv",
+                        "Present research in conferences"
+                    ],
+                    "how_to_practice": [
+                        "Work on AI challenges",
+                        "Build AI models",
+                        "Collaborate with AI-focused teams"
+                    ],
+                    "track_progress": [
+                        "Track development in a personal journal, use GitHub for version control"
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "opportunity": "Cybersecurity Analyst",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Cybrary",
+                        "Udemy",
+                        "Pluralsight",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Cybersecurity blogs",
+                        "Reddit communities",
+                        "GitHub repositories"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create a blog about security practices",
+                        "Set up a cybersecurity portfolio",
+                        "Contribute to bug bounty programs"
+                    ],
+                    "how_to_practice": [
+                        "Simulate attacks on virtual networks",
+                        "Participate in Capture The Flag (CTF) challenges"
+                    ],
+                    "track_progress": [
+                        "Use tracking tools for simulated attack results and improvements"
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "opportunity": "Cloud Engineer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "AWS Training",
+                        "Google Cloud Academy",
+                        "Microsoft Learn"
+                    ],
+                    "how_to_find_resources": [
+                        "Cloud provider documentation",
+                        "Online tech communities",
+                        "GitHub repositories"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Set up cloud environments",
+                        "Build projects using cloud technologies",
+                        "Create tutorials and blog posts"
+                    ],
+                    "how_to_practice": [
+                        "Work on cloud-based apps",
+                        "Join cloud computing forums",
+                        "Deploy projects on cloud platforms"
+                    ],
+                    "track_progress": [
+                        "Track cloud certifications and project completion on GitHub"
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "opportunity": "Database Administrator (DBA)",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Oracle Learning",
+                        "Udemy",
+                        "Coursera"
+                    ],
+                    "how_to_find_resources": [
+                        "Database forums",
+                        "GitHub repositories",
+                        "Online documentation"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create sample databases",
+                        "Write blogs about database performance tuning"
+                    ],
+                    "how_to_practice": [
+                        "Optimize SQL queries",
+                        "Build scalable database solutions",
+                        "Work with big data tools"
+                    ],
+                    "track_progress": [
+                        "Track database projects and maintain an online portfolio"
+                    ]
+                }
+            },
+            {
+                "id": 11,
+                "opportunity": "DevOps Engineer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Pluralsight",
+                        "AWS Training",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "DevOps blogs",
+                        "Tech forums",
+                        "GitHub repositories"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Contribute to DevOps open-source projects",
+                        "Create CI/CD pipelines",
+                        "Write blogs about automation"
+                    ],
+                    "how_to_practice": [
+                        "Work on deployment scripts",
+                        "Implement infrastructure as code"
+                    ],
+                    "track_progress": [
+                        "Track deployment improvements using project management tools like Jira"
+                    ]
+                }
+            },
+            {
+                "id": 12,
+                "opportunity": "Game Developer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Coursera",
+                        "FreeCodeCamp",
+                        "Pluralsight"
+                    ],
+                    "how_to_find_resources": [
+                        "Unity forums",
+                        "GameDev blogs",
+                        "GitHub repositories"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build small games",
+                        "Publish on GitHub",
+                        "Create a game portfolio"
+                    ],
+                    "how_to_practice": [
+                        "Develop 2D/3D games",
+                        "Work with Unity or Unreal Engine",
+                        "Participate in game jams"
+                    ],
+                    "track_progress": [
+                        "Create a personal GitHub repository for game projects"
+                    ]
+                }
+            },
+            {
+                "id": 13,
+                "opportunity": "UX/UI Designer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "LinkedIn Learning",
+                        "Coursera"
+                    ],
+                    "how_to_find_resources": [
+                        "UX/UI design blogs",
+                        "Dribbble",
+                        "Behance"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Design prototypes",
+                        "Create case studies",
+                        "Submit designs to Dribbble or Behance"
+                    ],
+                    "how_to_practice": [
+                        "Create wireframes",
+                        "Design user interfaces",
+                        "Work on mockups"
+                    ],
+                    "track_progress": [
+                        "Maintain a design portfolio on platforms like Behance or Dribbble"
+                    ]
+                }
+            },
+            {
+                "id": 14,
+                "opportunity": "Web Developer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "FreeCodeCamp",
+                        "The Odin Project",
+                        "Udemy",
+                        "Codecademy"
+                    ],
+                    "how_to_find_resources": [
+                        "Tech blogs",
+                        "GitHub repositories",
+                        "Stack Overflow"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build websites",
+                        "Create a personal web development portfolio",
+                        "Contribute to open-source projects"
+                    ],
+                    "how_to_practice": [
+                        "Develop full-stack applications",
+                        "Work with APIs",
+                        "Contribute to web dev communities"
+                    ],
+                    "track_progress": [
+                        "Use GitHub for version control and project showcasing"
+                    ]
+                }
+            },
+            {
+                "id": 15,
+                "opportunity": "Mobile App Developer (iOS/Android)",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Codecademy",
+                        "Coursera"
+                    ],
+                    "how_to_find_resources": [
+                        "Online tutorials",
+                        "Developer documentation (iOS/Android)"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build mobile apps",
+                        "Publish on app stores",
+                        "Create a mobile app portfolio"
+                    ],
+                    "how_to_practice": [
+                        "Develop apps for iOS/Android",
+                        "Contribute to mobile app projects"
+                    ],
+                    "track_progress": [
+                        "Track app launches and user feedback through app store analytics"
+                    ]
+                }
+            },
+            {
+                "id": 16,
+                "opportunity": "Network Engineer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Cisco Academy",
+                        "Pluralsight",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Network engineering forums",
+                        "Networking blogs",
+                        "Cisco documentation"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Configure network setups",
+                        "Create network designs",
+                        "Write network configuration tutorials"
+                    ],
+                    "how_to_practice": [
+                        "Set up home labs",
+                        "Work on network configurations"
+                    ],
+                    "track_progress": [
+                        "Keep a log of networks configured and managed"
+                    ]
+                }
+            }
+        ]
+    },{
+    
+    "domain_id": "2",
+    "domain_name": "Buisness & Management",
+    "domain_description": "This domain focuses on software development, systems engineering, artificial intelligence, cybersecurity, and more.",
+            
+            "opportunities":[
+                {"id": 1,
+                "opportunity": "Product Manager",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udemy",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Product management blogs",
+                        "Product communities",
+                        "Product conferences"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Manage product portfolios",
+                        "Write case studies",
+                        "Create product roadmaps"
+                    ],
+                    "how_to_practice": [
+                        "Work with product teams",
+                        "Launch products",
+                        "Collaborate with stakeholders"
+                    ],
+                    "track_progress": [
+                        "Track product releases, customer feedback, and metrics"
+                    ]
+                }
+                },{
+                    "id": 2,
+                    "opportunity": "Marketing Specialist",
+                   "description": "No description provided.",
+                     "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "HubSpot Academy",
+                        "Udemy"
+                    ],
+                    "how_to_find_resources": [
+                        "Marketing blogs",
+                        "Social media marketing forums",
+                        "Google Analytics Academy"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create marketing campaigns",
+                        "Write marketing reports",
+                        "Launch online ads"
+                    ],
+                    "how_to_practice": [
+                        "Work on campaigns",
+                        "Analyze marketing data",
+                        "Optimize campaigns based on analytics"
+                    ],
+                    "track_progress": [
+                        "Measure the performance of campaigns through tools like Google Analytics"
+                    ]
+                }
+            },{
+                "id": 3,
+                "opportunity": "Human Resources Manager",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udemy",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "HR blogs",
+                        "HR conferences",
+                        "LinkedIn HR communities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Write employee training guides",
+                        "Develop HR strategies",
+                        "Publish case studies"
+                    ],
+                    "how_to_practice": [
+                        "Work on recruitment",
+                        "Conduct performance reviews",
+                        "Develop HR policies"
+                    ],
+                    "track_progress": [
+                        "Track employee satisfaction and retention rates"
+                    ]
+                }
+
+            },{
+                "id": 4,
+                "opportunity": "Sales Manager",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udemy",
+                        "Salesforce"
+                    ],
+                    "how_to_find_resources": [
+                        "Sales blogs",
+                        "Networking events",
+                        "Sales training programs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create sales strategies",
+                        "Close deals",
+                        "Track sales performance"
+                    ],
+                    "how_to_practice": [
+                        "Work on sales calls",
+                        "Lead a sales team",
+                        "Optimize sales processes"
+                    ],
+                    "track_progress": [
+                        "Track sales metrics and KPIs"
+                    ]
+                }    
+                
+            },
+            {
+                "id": 5,
+                "opportunity": "Entrepreneur / Start-Up Founder",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Y Combinator Startup School",
+                        "Coursera",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Startup blogs",
+                        "Entrepreneurship communities",
+                        "Venture capital resources"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build a startup portfolio",
+                        "Pitch your ideas to investors",
+                        "Start a blog or YouTube channel on entrepreneurship"
+                    ],
+                    "how_to_practice": [
+                        "Start your own business",
+                        "Work on business plans",
+                        "Network with other entrepreneurs"
+                    ],
+                    "track_progress": [
+                        "Track startup milestones and fundraising progress"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Management Consultant",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udemy",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Consulting blogs",
+                        "Networking groups",
+                        "Consulting case study platforms"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Solve consulting cases",
+                        "Develop business strategies",
+                        "Publish case studies"
+                    ],
+                    "how_to_practice": [
+                        "Work with clients",
+                        "Analyze business problems",
+                        "Provide solutions"
+                    ],
+                    "track_progress": [
+                        "Track project success rates and client satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "Financial Analyst",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "edX",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Financial blogs",
+                        "Investment communities",
+                        "Financial modeling tutorials"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build financial models",
+                        "Create reports",
+                        "Analyze market trends"
+                    ],
+                    "how_to_practice": [
+                        "Work on financial reports",
+                        "Analyze company financial statements"
+                    ],
+                    "track_progress": [
+                        "Track financial reports and performance metrics"
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "opportunity": "Operations Manager",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udemy",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Operations management blogs",
+                        "Business management forums",
+                        "Books on operations management"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Optimize business processes",
+                        "Write case studies",
+                        "Create operational strategies"
+                    ],
+                    "how_to_practice": [
+                        "Work on operations projects",
+                        "Improve efficiency of business processes"
+                    ],
+                    "track_progress": [
+                        "Track performance improvements and operational metrics"
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "opportunity": "Supply Chain Specialist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "edX",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Supply chain blogs",
+                        "Logistics forums",
+                        "Online supply chain communities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create supply chain models",
+                        "Develop optimization strategies"
+                    ],
+                    "how_to_practice": [
+                        "Work on logistics projects",
+                        "Optimize supply chain operations"
+                    ],
+                    "track_progress": [
+                        "Track supply chain performance metrics"
+                    ]
+                }
+            }
+        ]
+    },{
+    
+        "domain_id": "3",
+        "domain_name": "Creative Arts& Design",
+        "domain_description": "This domain focuses on Designing.",
+                
+        "opportunities":  [
+            {
+                "id": 1,
+                "opportunity": "Graphic Designer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Skillshare",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Design blogs",
+                        "Adobe tutorials",
+                        "Online design communities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create portfolios",
+                        "Design brochures, posters, websites"
+                    ],
+                    "how_to_practice": [
+                        "Work on personal projects",
+                        "Volunteer for design tasks",
+                        "Participate in design challenges"
+                    ],
+                    "track_progress": [
+                        "Track feedback on designs from clients or peers"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Video Editor",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Coursera",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Video editing forums",
+                        "YouTube tutorials",
+                        "Editing software websites"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create edited video samples",
+                        "Build a showreel",
+                        "Document editing process"
+                    ],
+                    "how_to_practice": [
+                        "Edit personal videos",
+                        "Volunteer for community video projects"
+                    ],
+                    "track_progress": [
+                        "Monitor client or viewer feedback and improvement in editing techniques"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Animator",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Animation Mentor",
+                        "Schoolism"
+                    ],
+                    "how_to_find_resources": [
+                        "Animation blogs",
+                        "YouTube animation channels",
+                        "Online animation forums"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create animation shorts",
+                        "Build a portfolio",
+                        "Experiment with different animation techniques"
+                    ],
+                    "how_to_practice": [
+                        "Practice animation daily",
+                        "Work on character animation",
+                        "Collaborate on animated projects"
+                    ],
+                    "track_progress": [
+                        "Track animation quality through feedback from peers and professionals"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Illustrator",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Skillshare",
+                        "Udemy",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Art and illustration blogs",
+                        "Online communities",
+                        "Social media platforms for artists"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build an online portfolio",
+                        "Participate in art exhibitions",
+                        "Create digital and traditional artwork"
+                    ],
+                    "how_to_practice": [
+                        "Create daily sketches",
+                        "Collaborate with other artists",
+                        "Experiment with various mediums"
+                    ],
+                    "track_progress": [
+                        "Get feedback on artwork and track improvements over time"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Fashion Designer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "Udemy",
+                        "Fashion schools online"
+                    ],
+                    "how_to_find_resources": [
+                        "Fashion blogs",
+                        "Design magazines",
+                        "Fashion YouTube channels"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create a fashion portfolio",
+                        "Host fashion shows",
+                        "Design collections"
+                    ],
+                    "how_to_practice": [
+                        "Sketch daily",
+                        "Create your own clothing line",
+                        "Intern with fashion designers"
+                    ],
+                    "track_progress": [
+                        "Track collection sales and customer feedback"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Interior Designer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "LinkedIn Learning",
+                        "Coursera"
+                    ],
+                    "how_to_find_resources": [
+                        "Interior design blogs",
+                        "Home decor websites",
+                        "Design magazines"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create mood boards",
+                        "Build design portfolios",
+                        "Work on home redesign projects"
+                    ],
+                    "how_to_practice": [
+                        "Volunteer for interior design projects",
+                        "Experiment with different room layouts"
+                    ],
+                    "track_progress": [
+                        "Track client feedback and design success rates"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "3D Artist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Coursera",
+                        "Pluralsight"
+                    ],
+                    "how_to_find_resources": [
+                        "3D modeling forums",
+                        "YouTube channels on 3D art",
+                        "Autodesk tutorials"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create 3D models",
+                        "Work on visualizations for games or movies"
+                    ],
+                    "how_to_practice": [
+                        "Model and animate in 3D software",
+                        "Collaborate with others on 3D projects"
+                    ],
+                    "track_progress": [
+                        "Track projects completed and software proficiency growth"
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "opportunity": "Photographer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Skillshare",
+                        "YouTube tutorials",
+                        "MasterClass"
+                    ],
+                    "how_to_find_resources": [
+                        "Photography blogs",
+                        "Social media platforms for photographers",
+                        "Photography workshops"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build an online portfolio",
+                        "Participate in photo contests",
+                        "Create a personal photography website"
+                    ],
+                    "how_to_practice": [
+                        "Shoot daily",
+                        "Work on different photography styles",
+                        "Collaborate with other photographers"
+                    ],
+                    "track_progress": [
+                        "Track portfolio growth and customer or peer feedback"
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "opportunity": "Visual Effects (VFX) Artist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "FXPHD",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "VFX forums",
+                        "YouTube channels",
+                        "VFX software documentation"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create VFX reels",
+                        "Build a portfolio with VFX breakdowns"
+                    ],
+                    "how_to_practice": [
+                        "Work on personal VFX projects",
+                        "Collaborate with filmmakers"
+                    ],
+                    "track_progress": [
+                        "Measure improvements in VFX skills through professional feedback"
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "opportunity": "Game Designer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Udemy",
+                        "Coursera",
+                        "LinkedIn Learning"
+                    ],
+                    "how_to_find_resources": [
+                        "Game design blogs",
+                        "Game development communities",
+                        "Indie game development forums"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create game prototypes",
+                        "Design game mechanics",
+                        "Build a portfolio of games"
+                    ],
+                    "how_to_practice": [
+                        "Work on indie game projects",
+                        "Collaborate with game developers"
+                    ],
+                    "track_progress": [
+                        "Track user feedback and improvements in game playability"
+                    ]
+                }
+            },
+            {
+                "id": 11,
+                "opportunity": "Art Director",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Coursera",
+                        "LinkedIn Learning",
+                        "Udemy"
+                    ],
+                    "how_to_find_resources": [
+                        "Design leadership blogs",
+                        "Creative industry forums",
+                        "Books on art direction"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Build a leadership portfolio",
+                        "Work on high-profile art projects"
+                    ],
+                    "how_to_practice": [
+                        "Lead creative teams",
+                        "Collaborate with other artists and designers"
+                    ],
+                    "track_progress": [
+                        "Track the success of projects led and creative team performance"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+    
+        "domain_id": "4",
+        "domain_name": "HealthCare & Medicine",
+        "domain_description": "This domain focuses on Health ",
+                
+                "opportunities":[
+            {
+                "id": 1,
+                "opportunity": "Doctor (Various Specialties)",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Medical schools",
+                        "Online medical courses",
+                        "Hospital internships"
+                    ],
+                    "how_to_find_resources": [
+                        "Medical journals",
+                        "Online medical communities",
+                        "Research papers"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work in hospitals or clinics",
+                        "Participate in medical research",
+                        "Attend medical conferences"
+                    ],
+                    "how_to_practice": [
+                        "Internship or residency programs",
+                        "Shadow senior doctors",
+                        "Work with patients"
+                    ],
+                    "track_progress": [
+                        "Measure patient outcomes and feedback from medical peers"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Nurse",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Nursing schools",
+                        "Online nursing programs",
+                        "Hospitals offering training programs"
+                    ],
+                    "how_to_find_resources": [
+                        "Nursing associations",
+                        "Health care facilities",
+                        "Nursing workshops"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work in various healthcare settings",
+                        "Assist in surgeries",
+                        "Educate patients"
+                    ],
+                    "how_to_practice": [
+                        "Work in different departments (ICU, ER, Pediatrics)",
+                        "Get certifications for specialties"
+                    ],
+                    "track_progress": [
+                        "Track patient care feedback and improvement in skills over time"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Pharmacist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Pharmacy schools",
+                        "Online pharmacy courses",
+                        "Pharmacology programs"
+                    ],
+                    "how_to_find_resources": [
+                        "Pharmacy associations",
+                        "Medical websites",
+                        "Pharmaceutical companies"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Provide patient consultations",
+                        "Work in hospitals or retail pharmacies",
+                        "Create a pharmaceutical knowledge portfolio"
+                    ],
+                    "how_to_practice": [
+                        "Work in clinical or retail settings",
+                        "Stay updated with new medicines and drugs"
+                    ],
+                    "track_progress": [
+                        "Track success in patient outcomes and positive feedback"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Medical Technician",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Vocational training programs",
+                        "Technical colleges",
+                        "Medical technician courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Healthcare job boards",
+                        "Medical websites",
+                        "Certification programs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Perform diagnostic tests",
+                        "Work in hospital laboratories",
+                        "Maintain lab equipment"
+                    ],
+                    "how_to_practice": [
+                        "Volunteer for hands-on training",
+                        "Work with experienced technicians in clinics"
+                    ],
+                    "track_progress": [
+                        "Track diagnostic accuracy and efficiency improvements"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Physical Therapist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Physical therapy schools",
+                        "Online courses for therapists",
+                        "Workshops and seminars"
+                    ],
+                    "how_to_find_resources": [
+                        "Physical therapy forums",
+                        "Medical journals",
+                        "Health and wellness publications"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work with patients recovering from injuries",
+                        "Create a client testimonial portfolio",
+                        "Offer rehabilitation services"
+                    ],
+                    "how_to_practice": [
+                        "Provide hands-on therapy sessions",
+                        "Attend continuing education seminars"
+                    ],
+                    "track_progress": [
+                        "Track client recovery success and satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Dietitian",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Dietitian schools",
+                        "Nutrition courses online",
+                        "Workshops on nutrition"
+                    ],
+                    "how_to_find_resources": [
+                        "Nutrition blogs",
+                        "Health food websites",
+                        "Medical nutrition therapy resources"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Provide dietary consultations",
+                        "Create a portfolio of meal plans",
+                        "Educate clients on healthy eating habits"
+                    ],
+                    "how_to_practice": [
+                        "Work in hospitals, schools, or private clinics",
+                        "Create personalized diet plans for patients"
+                    ],
+                    "track_progress": [
+                        "Track patient health improvements and feedback"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "Clinical Psychologist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Psychology programs",
+                        "PhD programs in clinical psychology",
+                        "Online therapy certifications"
+                    ],
+                    "how_to_find_resources": [
+                        "Psychological associations",
+                        "Mental health journals",
+                        "Therapist websites"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Provide therapy services",
+                        "Publish articles or books on mental health",
+                        "Create a client success portfolio"
+                    ],
+                    "how_to_practice": [
+                        "Offer individual or group therapy sessions",
+                        "Internships in mental health clinics"
+                    ],
+                    "track_progress": [
+                        "Measure client mental health improvements and satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "opportunity": "Dentist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Dental schools",
+                        "Online dental courses",
+                        "Internships at dental practices"
+                    ],
+                    "how_to_find_resources": [
+                        "Dental journals",
+                        "Dental clinics",
+                        "Professional dental associations"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work in private or hospital dental clinics",
+                        "Build a dental portfolio",
+                        "Offer free dental checkups"
+                    ],
+                    "how_to_practice": [
+                        "Practice various dental procedures",
+                        "Participate in continuing education for new techniques"
+                    ],
+                    "track_progress": [
+                        "Track patient feedback on dental care services and improvements"
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "opportunity": "Surgeon",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Medical schools",
+                        "Residency programs",
+                        "Surgical workshops"
+                    ],
+                    "how_to_find_resources": [
+                        "Surgical journals",
+                        "Medical conferences",
+                        "Hospital surgeries"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Perform surgeries under supervision",
+                        "Build a portfolio of surgeries performed"
+                    ],
+                    "how_to_practice": [
+                        "Work in surgical departments",
+                        "Specialize in a particular surgery type"
+                    ],
+                    "track_progress": [
+                        "Track surgical success rates and recovery outcomes"
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "opportunity": "Paramedic",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Emergency medical technician (EMT) schools",
+                        "Paramedic certification programs",
+                        "First aid courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Emergency medical services (EMS) training centers",
+                        "Health and safety organizations"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work on ambulance teams",
+                        "Provide first-aid and emergency response"
+                    ],
+                    "how_to_practice": [
+                        "Join emergency response teams",
+                        "Take advanced trauma courses"
+                    ],
+                    "track_progress": [
+                        "Track successful emergency responses and client feedback"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+    
+        "domain_id": "5",
+        "domain_name": "Educatiom",
+        "domain_description": "This domain focuses on training and education",
+                
+                "opportunities":[
+            {
+                "id": 1,
+                "opportunity": "Teacher (Various Subjects)",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Teacher training programs",
+                        "University education programs",
+                        "Online teaching certifications"
+                    ],
+                    "how_to_find_resources": [
+                        "Educational websites",
+                        "Teaching associations",
+                        "Government education programs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work in schools or colleges",
+                        "Develop a teaching portfolio",
+                        "Create lesson plans and materials"
+                    ],
+                    "how_to_practice": [
+                        "Teach in classrooms or online",
+                        "Pursue professional development opportunities"
+                    ],
+                    "track_progress": [
+                        "Monitor student progress and feedback"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Academic Counselor",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Counseling programs",
+                        "University academic advising certifications",
+                        "Online counseling courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Counseling centers",
+                        "Academic counseling associations",
+                        "Educational institutions"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work with students on academic issues",
+                        "Provide guidance on course selection"
+                    ],
+                    "how_to_practice": [
+                        "Work in schools, colleges, or universities",
+                        "Offer workshops or one-on-one counseling sessions"
+                    ],
+                    "track_progress": [
+                        "Track student academic performance and satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Educational Administrator",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Master's in Educational Administration",
+                        "Leadership training programs",
+                        "School management certifications"
+                    ],
+                    "how_to_find_resources": [
+                        "Educational administration forums",
+                        "School leadership networks",
+                        "Local school districts"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Manage school operations",
+                        "Create educational policies and programs"
+                    ],
+                    "how_to_practice": [
+                        "Work in school districts or universities",
+                        "Apply for school administrator roles"
+                    ],
+                    "track_progress": [
+                        "Track academic performance and institutional improvements"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Online Course Creator",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Online course platforms (e.g., Udemy, Coursera)",
+                        "Content creation courses",
+                        "Video editing tutorials"
+                    ],
+                    "how_to_find_resources": [
+                        "Online course marketplaces",
+                        "Content creation communities",
+                        "Instructional design resources"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create high-quality, engaging online courses",
+                        "Build a portfolio of courses"
+                    ],
+                    "how_to_practice": [
+                        "Teach online through course platforms",
+                        "Offer live or recorded sessions"
+                    ],
+                    "track_progress": [
+                        "Monitor course enrollment and student feedback"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Special Education Teacher",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Special education certification programs",
+                        "University degree in special education",
+                        "Online special education courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Special education forums",
+                        "Government education websites",
+                        "Non-profit organizations"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work with students with disabilities",
+                        "Develop individualized education plans (IEPs)"
+                    ],
+                    "how_to_practice": [
+                        "Work in special education classrooms",
+                        "Offer support for students' specific needs"
+                    ],
+                    "track_progress": [
+                        "Monitor student development and learning progress"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Education Consultant",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Consulting certifications",
+                        "Education consultancy courses",
+                        "Industry webinars"
+                    ],
+                    "how_to_find_resources": [
+                        "Educational consultancy firms",
+                        "Online education resources",
+                        "Industry networks"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Provide consultancy services to educational institutions",
+                        "Develop improvement strategies for schools"
+                    ],
+                    "how_to_practice": [
+                        "Offer advice on curriculum design and school management",
+                        "Work with educational policy makers"
+                    ],
+                    "track_progress": [
+                        "Measure the effectiveness of consulting projects and client satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "Librarian",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Library science programs",
+                        "Master's in Library and Information Science",
+                        "Certification in archives management"
+                    ],
+                    "how_to_find_resources": [
+                        "Library associations",
+                        "Professional librarian networks",
+                        "Public library organizations"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work in libraries managing resources",
+                        "Offer research support and educational workshops"
+                    ],
+                    "how_to_practice": [
+                        "Manage public or academic libraries",
+                        "Curate resources and maintain archives"
+                    ],
+                    "track_progress": [
+                        "Track usage of library resources and patron feedback"
+                    ]
+                }
+            }
+        ]
+    },{
+    
+        "domain_id": "6",
+        "domain_name": "Finance & Accounting",
+        "domain_description": "This domain focuses on finance and accounts",
+                
+                "opportunities":[
+            {
+                "id": 1,
+                "opportunity": "Accountant",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Accounting degree programs",
+                        "Online accounting courses",
+                        "Certification programs (CPA, ACCA)"
+                    ],
+                    "how_to_find_resources": [
+                        "Accounting forums",
+                        "Professional accounting organizations",
+                        "Finance job boards"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work with financial statements",
+                        "Build an accounting portfolio",
+                        "Manage bookkeeping tasks"
+                    ],
+                    "how_to_practice": [
+                        "Work in accounting firms or businesses",
+                        "Stay updated on tax laws and regulations"
+                    ],
+                    "track_progress": [
+                        "Track financial reporting accuracy and client satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Auditor",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Audit certifications",
+                        "Online auditing courses",
+                        "Accounting degrees with audit specialization"
+                    ],
+                    "how_to_find_resources": [
+                        "Audit professional networks",
+                        "Accounting firms",
+                        "Audit-specific journals"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Perform audits for organizations",
+                        "Create audit reports",
+                        "Ensure compliance with regulations"
+                    ],
+                    "how_to_practice": [
+                        "Work in public accounting firms",
+                        "Specialize in internal or external audits"
+                    ],
+                    "track_progress": [
+                        "Track audit findings and client compliance improvements"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Financial Planner / Advisor",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Financial planning degrees",
+                        "Certified Financial Planner (CFP) certification",
+                        "Investment management courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Financial planning websites",
+                        "Investment advisor networks",
+                        "Online personal finance blogs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Provide financial advice to clients",
+                        "Develop financial plans and investment strategies"
+                    ],
+                    "how_to_practice": [
+                        "Offer financial planning services to individuals or businesses",
+                        "Work for financial advisory firms"
+                    ],
+                    "track_progress": [
+                        "Track clients' financial goals and progress"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Investment Banker",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Investment banking programs",
+                        "Finance degrees",
+                        "MBA with finance specialization"
+                    ],
+                    "how_to_find_resources": [
+                        "Investment banking firms",
+                        "Finance and investment conferences",
+                        "Finance career networks"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Work on mergers and acquisitions",
+                        "Advise clients on investment opportunities"
+                    ],
+                    "how_to_practice": [
+                        "Work in investment banks",
+                        "Assist with stock offerings and market analysis"
+                    ],
+                    "track_progress": [
+                        "Track client investment success and portfolio growth"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Tax Consultant",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Taxation degrees",
+                        "Certified Tax Consultant programs",
+                        "Online tax preparation courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Tax consultancy firms",
+                        "Taxation forums",
+                        "Government tax websites"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Help clients minimize tax liabilities",
+                        "Prepare and file tax returns"
+                    ],
+                    "how_to_practice": [
+                        "Work with businesses and individuals to offer tax advice",
+                        "Stay updated with tax laws"
+                    ],
+                    "track_progress": [
+                        "Track the savings and tax benefits provided to clients"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Risk Manager",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Risk management courses",
+                        "Master's in risk management",
+                        "Certifications (FRM, PRM)"
+                    ],
+                    "how_to_find_resources": [
+                        "Risk management job boards",
+                        "Financial risk forums",
+                        "Risk management consultancy firms"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Analyze potential risks in financial portfolios",
+                        "Design strategies to mitigate financial risks"
+                    ],
+                    "how_to_practice": [
+                        "Work in insurance companies, banks, or investment firms",
+                        "Specialize in specific risk areas"
+                    ],
+                    "track_progress": [
+                        "Track risk reduction and improvements in decision-making processes"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "Actuary",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Actuarial science degrees",
+                        "Online actuarial courses",
+                        "Actuary certification exams (SOA, IFoA)"
+                    ],
+                    "how_to_find_resources": [
+                        "Actuarial societies",
+                        "Actuarial firms",
+                        "Online actuarial communities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Calculate financial risks and insurance premiums",
+                        "Present actuarial reports to clients"
+                    ],
+                    "how_to_practice": [
+                        "Work for insurance companies or pension funds",
+                        "Provide advice on risk management"
+                    ],
+                    "track_progress": [
+                        "Track success in risk prediction and client satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "opportunity": "Insurance Analyst",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Insurance and finance courses",
+                        "Online certifications in insurance analysis",
+                        "Business degree programs with insurance specialization"
+                    ],
+                    "how_to_find_resources": [
+                        "Insurance forums",
+                        "Insurance companies",
+                        "Industry conferences"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Assess insurance policies and analyze claims data",
+                        "Create insurance reports for clients"
+                    ],
+                    "how_to_practice": [
+                        "Work in insurance firms",
+                        "Assist in creating new insurance products"
+                    ],
+                    "track_progress": [
+                        "Track the accuracy of insurance risk assessments and customer satisfaction"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+    
+        "domain_id": "7",
+        "domain_name": "Law & Legal",
+        "domain_description": "This domain focuses on law and legal Research",
+                
+                "opportunities":[
+            {
+                "id": 1,
+                "opportunity": "Lawyer / Attorney",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Law degree (LLB)",
+                        "Law school programs",
+                        "Bar exam preparation courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Law school websites",
+                        "Bar associations",
+                        "Legal mentorship programs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Take cases, represent clients in court",
+                        "Build a client portfolio"
+                    ],
+                    "how_to_practice": [
+                        "Work at law firms",
+                        "Offer legal consultations"
+                    ],
+                    "track_progress": [
+                        "Monitor the number of cases handled and client satisfaction"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Paralegal",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Paralegal certification programs",
+                        "Associate degree in paralegal studies",
+                        "Online paralegal courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Paralegal associations",
+                        "Law firms",
+                        "Online legal courses"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Assist lawyers with legal research",
+                        "Prepare case files and documentation"
+                    ],
+                    "how_to_practice": [
+                        "Work in law offices or legal departments",
+                        "Assist in case preparation and court filings"
+                    ],
+                    "track_progress": [
+                        "Track the success of case support and legal research"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Legal Consultant",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Law degree",
+                        "Legal consultancy certifications",
+                        "Specialization in legal areas"
+                    ],
+                    "how_to_find_resources": [
+                        "Legal consultancy firms",
+                        "Online legal resources",
+                        "Professional law networks"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Provide expert legal advice to organizations",
+                        "Develop legal strategies for clients"
+                    ],
+                    "how_to_practice": [
+                        "Work with businesses, startups, or governmental bodies",
+                        "Offer specialized legal advice"
+                    ],
+                    "track_progress": [
+                        "Monitor client success and feedback on legal advice"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Judge",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Law degree (LLB)",
+                        "Judicial training programs",
+                        "Specialized judicial exams"
+                    ],
+                    "how_to_find_resources": [
+                        "Court systems",
+                        "Judicial career networks",
+                        "Government resources on judicial appointments"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Preside over court cases",
+                        "Deliver legal verdicts based on evidence"
+                    ],
+                    "how_to_practice": [
+                        "Work in local, state, or national courts",
+                        "Develop strong legal expertise and leadership skills"
+                    ],
+                    "track_progress": [
+                        "Monitor case rulings and judicial effectiveness"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Legal Researcher",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Law degree",
+                        "Legal research certification programs",
+                        "Advanced law studies (LL.M)"
+                    ],
+                    "how_to_find_resources": [
+                        "Law research institutes",
+                        "Legal libraries",
+                        "Court records databases"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct in-depth legal research",
+                        "Prepare legal reports and analyses"
+                    ],
+                    "how_to_practice": [
+                        "Work in law firms, courts, or legal agencies",
+                        "Provide research for lawyers or law professors"
+                    ],
+                    "track_progress": [
+                        "Track research quality and impact on case outcomes"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Compliance Officer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Compliance certifications (e.g., CCEP)",
+                        "Business law programs",
+                        "Risk management courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Compliance job boards",
+                        "Regulatory organizations",
+                        "Online compliance resources"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Ensure adherence to legal regulations",
+                        "Develop compliance strategies for organizations"
+                    ],
+                    "how_to_practice": [
+                        "Work for corporations, financial institutions, or government bodies",
+                        "Monitor organizational legal practices"
+                    ],
+                    "track_progress": [
+                        "Track compliance success rates and legal audits"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+    
+        "domain_id": "8",
+        "domain_name": "Science & Research",
+        "domain_description": "This domain focuses on Science feilds such as biology,chemistry",
+                
+                "opportunities":[
+            {
+                "id": 1,
+                "opportunity": "Biologist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Biology degree programs",
+                        "Research fellowships",
+                        "Online biology courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Research institutes",
+                        "Biology professional networks",
+                        "University research projects"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct biological research",
+                        "Publish findings in scientific journals"
+                    ],
+                    "how_to_practice": [
+                        "Work in laboratories, research institutes, or universities",
+                        "Apply research in healthcare, environmental science"
+                    ],
+                    "track_progress": [
+                        "Track research findings and their application in various fields"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Chemist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Chemistry degree programs",
+                        "Research certifications",
+                        "Specialization in organic or inorganic chemistry"
+                    ],
+                    "how_to_find_resources": [
+                        "Chemistry professional networks",
+                        "University labs",
+                        "Chemical companies"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct chemical experiments",
+                        "Analyze chemical properties and reactions"
+                    ],
+                    "how_to_practice": [
+                        "Work in research labs or manufacturing industries",
+                        "Develop new chemical products or processes"
+                    ],
+                    "track_progress": [
+                        "Track the outcomes and improvements from chemical research"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Physicist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Physics degree programs",
+                        "Post-graduate research opportunities",
+                        "Physics conferences and workshops"
+                    ],
+                    "how_to_find_resources": [
+                        "Physics research institutes",
+                        "University research projects",
+                        "Scientific journals"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct experiments in physics",
+                        "Publish and present research findings"
+                    ],
+                    "how_to_practice": [
+                        "Work in academic or research settings",
+                        "Explore new theories in physics or applied sciences"
+                    ],
+                    "track_progress": [
+                        "Track the real-world applications of physical theories"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Research Scientist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Ph.D. in a scientific field",
+                        "Research internships",
+                        "Specialized research institutes"
+                    ],
+                    "how_to_find_resources": [
+                        "University research centers",
+                        "Private and public research agencies",
+                        "Scientific conferences"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Lead scientific research projects",
+                        "Publish research articles in journals"
+                    ],
+                    "how_to_practice": [
+                        "Work in universities, laboratories, or private research firms",
+                        "Develop innovations in science"
+                    ],
+                    "track_progress": [
+                        "Track the impact of research on the scientific community"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Environmental Scientist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Environmental science degree programs",
+                        "Sustainability certifications",
+                        "Field research opportunities"
+                    ],
+                    "how_to_find_resources": [
+                        "Environmental agencies",
+                        "Research institutes",
+                        "Environmental NGOs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct environmental assessments",
+                        "Develop strategies to address environmental issues"
+                    ],
+                    "how_to_practice": [
+                        "Work in government agencies, NGOs, or private firms",
+                        "Contribute to environmental conservation efforts"
+                    ],
+                    "track_progress": [
+                        "Track improvements in environmental conditions and sustainability practices"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Lab Technician",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Laboratory technology programs",
+                        "Certifications in lab techniques",
+                        "On-the-job training"
+                    ],
+                    "how_to_find_resources": [
+                        "Hospitals, research labs",
+                        "Medical labs",
+                        "Scientific training providers"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Perform laboratory experiments and tests",
+                        "Assist in the development of lab procedures"
+                    ],
+                    "how_to_practice": [
+                        "Work in medical or research laboratories",
+                        "Support scientific investigations with technical skills"
+                    ],
+                    "track_progress": [
+                        "Track accuracy of lab results and improve testing procedures"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "Geologist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Geology degree programs",
+                        "Fieldwork experience",
+                        "Specialized courses in geophysics or hydrology"
+                    ],
+                    "how_to_find_resources": [
+                        "Geology associations",
+                        "Mining or oil companies",
+                        "Research institutes"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct geological surveys",
+                        "Analyze rock samples and map geological structures"
+                    ],
+                    "how_to_practice": [
+                        "Work in energy, mining, or environmental sectors",
+                        "Apply geological knowledge to natural resource management"
+                    ],
+                    "track_progress": [
+                        "Track discoveries in geological research and natural resource management"
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "opportunity": "Archaeologist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Archaeology degree programs",
+                        "Field excavations",
+                        "PhD in archaeology"
+                    ],
+                    "how_to_find_resources": [
+                        "Archaeological sites",
+                        "University archaeology departments",
+                        "Cultural heritage organizations"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct excavations and site surveys",
+                        "Study historical artifacts"
+                    ],
+                    "how_to_practice": [
+                        "Work with museums, research organizations, or heritage sites",
+                        "Document and preserve cultural history"
+                    ],
+                    "track_progress": [
+                        "Track archaeological findings and their contributions to history"
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "opportunity": "Astronomer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Astronomy degree programs",
+                        "PhD in astrophysics",
+                        "Telescope operation training"
+                    ],
+                    "how_to_find_resources": [
+                        "Astronomy associations",
+                        "Space agencies",
+                        "University observatories"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Conduct astronomical observations",
+                        "Develop new theories in astronomy"
+                    ],
+                    "how_to_practice": [
+                        "Work in space agencies, observatories, or academic research"
+                    ],
+                    "track_progress": [
+                        "Track discoveries and contributions to the field of astronomy"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+    
+        "domain_id": "9",
+        "domain_name": "Media & Journalism",
+        "domain_description": "This domain focuses on Journalism",
+                
+                "opportunities":[
+            {
+                "id": 1,
+                "opportunity": "Journalist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Journalism degree programs",
+                        "Internships in newsrooms",
+                        "Writing courses"
+                    ],
+                    "how_to_find_resources": [
+                        "News agencies",
+                        "Freelance journalism websites",
+                        "Journalism schools"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Write articles, cover news events",
+                        "Develop investigative reports"
+                    ],
+                    "how_to_practice": [
+                        "Work for newspapers, magazines, TV, or digital news outlets",
+                        "Interview people, research stories"
+                    ],
+                    "track_progress": [
+                        "Track the success of published articles and viewer engagement"
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "opportunity": "Content Writer",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Content writing courses",
+                        "Writing workshops",
+                        "Freelance writing"
+                    ],
+                    "how_to_find_resources": [
+                        "Content writing platforms",
+                        "Job boards for freelance writers",
+                        "Content agencies"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Write blog posts, product descriptions, and marketing content",
+                        "Create SEO-optimized articles"
+                    ],
+                    "how_to_practice": [
+                        "Freelance writing or working in content creation for businesses"
+                    ],
+                    "track_progress": [
+                        "Track content reach and audience engagement"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "opportunity": "Copywriter",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Copywriting certifications",
+                        "Advertising courses",
+                        "Creative writing programs"
+                    ],
+                    "how_to_find_resources": [
+                        "Advertising agencies",
+                        "Freelance copywriting platforms",
+                        "Creative writing groups"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create compelling ads and marketing content",
+                        "Write catchy headlines"
+                    ],
+                    "how_to_practice": [
+                        "Work with marketing teams, agencies, or freelance for brands"
+                    ],
+                    "track_progress": [
+                        "Track ad performance and conversion rates"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "opportunity": "Editor",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Editing workshops",
+                        "Journalism or English degree programs",
+                        "Online editing courses"
+                    ],
+                    "how_to_find_resources": [
+                        "Publishing houses",
+                        "Magazine editors",
+                        "Freelance editing platforms"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Edit articles, books, or online content",
+                        "Refine writing for grammar and flow"
+                    ],
+                    "how_to_practice": [
+                        "Work with authors, journalists, or publishing houses",
+                        "Proofread and finalize written content"
+                    ],
+                    "track_progress": [
+                        "Track content quality and editing effectiveness"
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "opportunity": "Social Media Manager",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Social media management courses",
+                        "Digital marketing certifications",
+                        "Online content strategy training"
+                    ],
+                    "how_to_find_resources": [
+                        "Marketing agencies",
+                        "Social media platforms",
+                        "Digital marketing blogs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Create social media campaigns",
+                        "Grow and engage social media audiences"
+                    ],
+                    "how_to_practice": [
+                        "Work with companies to manage social media platforms",
+                        "Develop brand presence online"
+                    ],
+                    "track_progress": [
+                        "Track engagement metrics and growth in followers"
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "opportunity": "Public Relations Specialist",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Public relations certifications",
+                        "Media relations courses",
+                        "Communications degrees"
+                    ],
+                    "how_to_find_resources": [
+                        "PR firms",
+                        "Corporate communications departments",
+                        "Public relations agencies"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Manage media relations",
+                        "Develop press releases and PR strategies"
+                    ],
+                    "how_to_practice": [
+                        "Work with companies or organizations to manage public relations"
+                    ],
+                    "track_progress": [
+                        "Monitor media coverage and brand perception"
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "opportunity": "Radio/TV Presenter",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Media and broadcasting degrees",
+                        "Voice training courses",
+                        "Public speaking workshops"
+                    ],
+                    "how_to_find_resources": [
+                        "Broadcasting stations",
+                        "Online media courses",
+                        "Voice and presentation training programs"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Host radio shows or TV segments",
+                        "Engage with audiences on-air"
+                    ],
+                    "how_to_practice": [
+                        "Work with TV or radio networks",
+                        "Create engaging and informative broadcasts"
+                    ],
+                    "track_progress": [
+                        "Track audience ratings and viewer/listener feedback"
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "opportunity": "News Anchor",
+                "description": "No description provided.",
+                "resources": {
+                    "where_to_learn": [
+                        "Broadcast journalism programs",
+                        "News anchoring training",
+                        "Public speaking workshops"
+                    ],
+                    "how_to_find_resources": [
+                        "Television networks",
+                        "Journalism schools",
+                        "Freelance broadcasting opportunities"
+                    ],
+                    "how_to_showcase_skill": [
+                        "Anchor news segments",
+                        "Conduct interviews with experts"
+                    ],
+                    "how_to_practice": [
+                        "Work for news channels or independent news stations"
+                    ],
+                    "track_progress": [
+                        "Track the success of broadcasts and viewer engagement"
+                    ]
+                }
+            }
+        ]
+    }
+]
+    
+      
