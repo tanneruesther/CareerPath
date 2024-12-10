@@ -25,13 +25,11 @@ Routing: React Router
 ## Screenshots
 
 ![Home](assets/home.jpg)
-<br>
 
 ![Home](assets/home.display.jpg)
-<br>
+
 
 ![roadmap](assets/image.png)
-<br>
 
 ![roadmap](assets/roadmap.jpeg)
 
