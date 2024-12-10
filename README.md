@@ -22,10 +22,10 @@ Routing: React Router
 
 
 ## Setup Instructions
-# Clone the repository:git clone [project](https://github.com/tanneruesther/career-roadmap.git)
-# Navigate to the project directory:cd career-roadmap
-# Install dependencies:bun install
-# Start the development server:bun run dev
+1.Clone the repository:git clone [project](https://github.com/tanneruesther/career-roadmap.git)
+2.Navigate to the project directory:cd career-roadmap
+3.Install dependencies:bun install
+4.Start the development server:bun run dev
 
 ## Usage Instructions
 Upon loading the app, you will be greeted with the Career Selection screen. Choose your desired career field (e.g., Software Development, Business, etc.).
