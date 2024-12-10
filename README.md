@@ -16,12 +16,10 @@ This app helps users by providing basic structured guidance, suggesting key skil
 -Resource Integration: courses, tutorials, and tools for career growth.
 
 ## Technologies Used
-Frontend: React.js, Vite, HTML, CSS, JavaScript
+Frontend: React.js+Vite, HTML, CSS, JavaScript
 State Management: React Context API
 Routing: React Router
-# React + Vite
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
 
 
 ## Screenshots
