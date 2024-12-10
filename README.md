@@ -21,7 +21,9 @@ State Management: React Context API
 Routing: React Router
 
 ## Screenshots
-![Home]assets/home.display.jpg
+![Home](assets/home.display.jpg)
+![Home](assets/home.jpg)
+![Home](assets/roadmap.jpg)
 
 ## Setup Instructions
 Clone the repository:git clone https://github.com/tanneruesther/career-roadmap.git
