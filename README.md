@@ -22,7 +22,7 @@ Routing: React Router
 
 
 ## Setup Instructions
-Clone the repository:git clone https://github.com/tanneruesther/career-roadmap.git
+Clone the repository:git clone [project](https://github.com/tanneruesther/career-roadmap.git)
 Navigate to the project directory:cd career-roadmap
 Install dependencies:bun install
 Start the development server:bun run dev
