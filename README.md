@@ -1,7 +1,7 @@
 ## Career Roadmap
 An interactive web app built with React and Vite to help students and fresh graduates discover and track personalized career paths with tailored roadmaps, useful resources, and mentorship advice.
 
-## Project Overview
+## Description
 -The Career Roadmap app is designed to guide users in selecting a career path and help them create a personalized roadmap with actionable steps.
 -The application  also  courses to relevant resources, and professional advice to assist them in building skills for their chosen career.
 
